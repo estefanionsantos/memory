@@ -22,16 +22,16 @@ Com isso, é possível criar palavras ou frases que ajudem a lembrar de números
 ---
   | -       | -        | -        | -        | -         | 
   | -       | -        | -        | -        | -         | 
-  | 0 hora  | 10 Touro | 20 Nora  | 30 Mar   | 40 Carro  | 
+  | 0 hora  | 10 Touro | 20 Nero  | 30 Mar   | 40 Carro  |
   | 1 Teia  | 11 Tatu  | 21 Nata  | 31 Moto  | 41 Coiote | 
-  | 2 NoÃ©  | 12 Tina  | 22 Néon  | 32 Mina  | 42 Cano   | 
-  | 3 Mã o  | 13 Time  | 23 Nome  | 33 Múmia | 43 Cama   | 
-  | 4 Cã o  | 14 Toco  | 24 Nuca  | 34 Maca  | 44 Coco   | 
+  | 2 Nó    | 12 Tina  | 22 Ninho | 32 Mina  | 42 Cano   |
+  | 3 Mão   | 13 Time  | 23 Nemo  | 33 Múmia | 43 Cama   |
+  | 4 Cão   | 14 Toco  | 24 Nuca  | 34 Maca  | 44 Coco   |
   | 5 Lua   | 15 Tela  | 25 Nilo  | 35 Mala  | 45 Calo   | 
   | 6 Osso  | 16 Taça  | 26 Nasa  | 36 Missa | 46 Casa   | 
   | 7 Fio   | 17 Tufo  | 27 Navio | 37 Mofo  | 47 Café   | 
-  | 8 Ág ua | 18 Toga  | 28 Naja  | 38 Mago  | 48 Cego   | 
-  | 9 Peao  | 19 Tubo  | 29 Nabo  | 39 Mapa  | 49 Cabo   | 
+  | 8 Água  | 18 Toga  | 28 Naja  | 38 Mago  | 48 Cego   |
+  | 9 Peão  | 19 Tubo  | 29 Nabo  | 39 Mapa  | 49 Cabo   |
 
 ---
  | -        | -        | -        | -         | -         | -         | 
@@ -40,7 +40,7 @@ Com isso, é possível criar palavras ou frases que ajudem a lembrar de números
  | 51 Lata  | 61 Seta  | 71 Fita  | 81 Gato   | 91 Pato   | -         | 
  | 52 Lona  | 62 Sino  | 72 Fone  | 82 Gina   | 92 Pano   | -         | 
  | 53 Lama  | 63 Sumô  | 73 Fumo  | 83 Gema   | 93 Puma   | -         | 
- | 54 Louco | 64 Saco  | 74 Faca  | 84 Gaúcho | 94 Boca   | -         | 
+ | 54 Louco | 64 Saci  | 74 Faca  | 84 Gaúcho | 94 Boca   | -         |
  | 55 Lula  | 65 Selo  | 75 Folha | 85 Gelo   | 95 Pelé   | -         | 
  | 56 Lixo  | 66 Xuxa  | 76 Faixa | 86 Gesso  | 96 Peixe  | -         | 
  | 57 Luva  | 67 Sofá  | 77 Vovó  | 87 Gavião | 97 Pavão  | -         | 
