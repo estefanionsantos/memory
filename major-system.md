@@ -24,7 +24,7 @@ Com isso, é possível criar palavras ou frases que ajudem a lembrar de números
   | -       | -        | -        | -        | -         | 
   | 0 hora  | 10 Touro | 20 Nero  | 30 Mar   | 40 Cera   |
   | 1 Teia  | 11 Tatu  | 21 Nata  | 31 Moto  | 41 Coiote | 
-  | 2 Nó    | 12 Tina  | 22 Ninho | 32 Mina  | 42 Cano   |
+  | 2 Noé   | 12 Tina  | 22 Ninho | 32 Mina  | 42 Cano   |
   | 3 Mão   | 13 Time  | 23 Nemo  | 33 Múmia | 43 Cama   |
   | 4 Cão   | 14 Toco  | 24 Nuca  | 34 Maca  | 44 Coco   |
   | 5 Lua   | 15 Tela  | 25 Nilo  | 35 Mala  | 45 Calo   | 
