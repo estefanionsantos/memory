@@ -7,8 +7,8 @@ Aqui está uma tabela básica do Sistema Major:
 
   | -                | -             | -        | -        | -             | 
   | -                | -             | -        | -        | -             | 
-  | **0** = R, RR (zeRo) | **1** = T (1~T)   | **2** = N    | **3** = M    | **4** = C         | 
-  | **5** = L (50 = L)   | **6** = S,Ç, X SS | **7** = V, F | **8** = g, j | **9** = d, b p, q | 
+  | **0** = R (zeRo)     | **1** = T (1~T)   | **2** = N    | **3** = M    | **4** = C         | 
+  | **5** = L (50 = L)   | **6** = S,Ç, X    | **7** = V, F | **8** = g, j | **9** = d, b p, q | 
 
 As vogais e as letras H, W e Y são usadas para formar palavras, mas não têm valor numérico. 
 Com isso, é possível criar palavras ou frases que ajudem a lembrar de números específicos.
@@ -22,13 +22,13 @@ Com isso, é possível criar palavras ou frases que ajudem a lembrar de números
 ---
   | -       | -        | -        | -        | -         | 
   | -       | -        | -        | -        | -         | 
-  | 0 hora  | 10 Touro | 20 Nero  | 30 Mar   | 40 Carro  |
+  | 0 hora  | 10 Touro | 20 Nero  | 30 Mar   | 40 Cera   |
   | 1 Teia  | 11 Tatu  | 21 Nata  | 31 Moto  | 41 Coiote | 
   | 2 Nó    | 12 Tina  | 22 Ninho | 32 Mina  | 42 Cano   |
   | 3 Mão   | 13 Time  | 23 Nemo  | 33 Múmia | 43 Cama   |
   | 4 Cão   | 14 Toco  | 24 Nuca  | 34 Maca  | 44 Coco   |
   | 5 Lua   | 15 Tela  | 25 Nilo  | 35 Mala  | 45 Calo   | 
-  | 6 Osso  | 16 Taça  | 26 Nasa  | 36 Missa | 46 Casa   | 
+  | 6 Asa   | 16 Taça  | 26 Nasa  | 36 Maçã  | 46 Casa   | 
   | 7 Fio   | 17 Tufo  | 27 Navio | 37 Mofo  | 47 Café   | 
   | 8 Água  | 18 Toga  | 28 Naja  | 38 Mago  | 48 Cego   |
   | 9 Peão  | 19 Tubo  | 29 Nabo  | 39 Mapa  | 49 Cabo   |
