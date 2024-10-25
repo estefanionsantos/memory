@@ -28,7 +28,7 @@ Com isso, é possível criar palavras ou frases que ajudem a lembrar de números
   | 3 Mão   | 13 Time  | 23 Nemo  | 33 Múmia | 43 Cama   |
   | 4 Cão   | 14 Toco  | 24 Nuca  | 34 Maca  | 44 Coco   |
   | 5 Lua   | 15 Tela  | 25 Nilo  | 35 Mala  | 45 Calo   | 
-  | 6 Asa   | 16 Taça  | 26 Nasa  | 36 Maçã  | 46 Casa   | 
+  | 6 Saia  | 16 Taça  | 26 Nasa  | 36 Maçã  | 46 Casa   | 
   | 7 Fio   | 17 Tufo  | 27 Navio | 37 Mofo  | 47 Café   | 
   | 8 Água  | 18 Toga  | 28 Naja  | 38 Mago  | 48 Cego   |
   | 9 Peão  | 19 Tubo  | 29 Nabo  | 39 Mapa  | 49 Cabo   |
